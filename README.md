@@ -19,6 +19,7 @@ Remindr is currently available (unsigned) on Windows, Mac, and Linux.
 
 - Accounts/Online syncing
 - Group reminders by date
+- Recurring/Repeating Reminders
 - Minute-precise: get reminders on any minute of any day
 - Notes with full text formatting
   - Images are embeddable in notes
