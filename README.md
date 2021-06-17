@@ -6,6 +6,8 @@ Remindr is a desktop app to help you and others keep track of what you need to g
 
 Remindr is currently available on Windows, Mac, and Linux.
 
+## Features
+
 #### Reminder Grouping
 ![](https://i.imgur.com/Y3mY2lp.png)
 
@@ -14,8 +16,6 @@ Remindr is currently available on Windows, Mac, and Linux.
 
 #### Custom Backgrounds
 ![](https://i.imgur.com/Y3q9Isq.png)
-
-## Features
 
 - Accounts/Online syncing
 - Group reminders by date
