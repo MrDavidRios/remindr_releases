@@ -22,5 +22,4 @@ Remindr is currently available on Windows and Linux.
 - Recurring/Repeating Reminders
 - Minute-precise: get reminders on any minute of any day
 - Notes with full text formatting
-  - Images are embeddable in notes
 - Filter reminders by time
