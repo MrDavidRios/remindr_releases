@@ -4,7 +4,7 @@ Remindr is a desktop app to help you and others keep track of what you need to g
 
 ## Installation
 
-Remindr is currently available on Windows, Mac, and Linux.
+Remindr is currently available on Windows and Linux.
 
 ## Features
 
