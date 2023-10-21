@@ -1,6 +1,6 @@
 # Remindr
 
-Remindr is a desktop app to help you and others keep track of what you need to get done.
+Remindr is a desktop app to help you keep track of what you need to get done.
 
 ## Installation
 
