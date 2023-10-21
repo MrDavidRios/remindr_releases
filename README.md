@@ -10,9 +10,8 @@ Remindr is currently available on Windows and Linux.
 
 ## Features
 - Accounts/Online Syncing
-- Offline mode **(no account required!)**
+- Offline mode **(no account required)**
 - Reminder grouping
 - Recurring Reminders
 - Multiple reminders per task
-- Minute-precise: get reminders on any minute of any day
-- Notes with full text formatting
+- Subtasks
