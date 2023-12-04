@@ -6,7 +6,7 @@ Remindr is a desktop app to help you keep track of what you need to get done.
 
 Remindr is currently available on Windows and Linux.
 
-<img src="https://user-images.githubusercontent.com/52746497/213310565-ec50bb18-26c8-4287-b912-751ca47617fd.png" width="541" height="590"/>
+<img src="https://github.com/MrDavidRios/remindr_releases/assets/52746497/770c76dd-85f9-40fe-8991-a1a145f090f4" width="550" height="600"/>
 
 ## Features
 - Accounts/Online Syncing
@@ -15,3 +15,4 @@ Remindr is currently available on Windows and Linux.
 - Recurring Reminders
 - Multiple reminders per task
 - Subtasks
+
