@@ -15,4 +15,5 @@ Remindr is currently available on Windows and Linux.
 - Recurring Reminders
 - Multiple reminders per task
 - Subtasks
+- Links (files/webpages)
 
