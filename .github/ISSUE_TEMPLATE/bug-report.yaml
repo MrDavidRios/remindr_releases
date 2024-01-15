@@ -1,0 +1,40 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug"]
+assignees:
+  - []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: whats-wrong
+    attributes:
+      label: What went wrong?
+      description: Provide a detailed description of what did not work as expected.
+      placeholder: Provide a detailed description of what did not work as expected.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version of Remindr are you running?
+      placeholder: e.g. 2.1.4
+    validations:
+      required: true
+  - type: input
+    id: operating-system
+    attributes:
+      label: Operating System
+      description: Which operating system do you use?
+      placeholder: e.g. Windows
+    validations:
+      required: true
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional information
+      description: Add any screenshots/links to videos/other relevant information to help explain the bug.
