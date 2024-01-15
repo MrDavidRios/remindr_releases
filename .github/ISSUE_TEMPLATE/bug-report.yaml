@@ -28,7 +28,7 @@ body:
   - type: input
     id: operating-system
     attributes:
-      label: Version
+      label: Operating System
       description: Which operating system do you use?
       placeholder: e.g. Windows
     validations:
