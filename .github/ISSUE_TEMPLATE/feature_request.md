@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for Remindr
 title: ''
-labels: ''
+labels: ["enhancement"]
 assignees: ''
 
 ---
